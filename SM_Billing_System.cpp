@@ -18,3 +18,7 @@ public:
     void cart();
     void receipt();
 };
+
+void shopping:: Main_Menu(){
+    
+}
